@@ -1,8 +1,6 @@
 # projektyWebowe
  
 # Aplikacja wspomagająca zarządzanie finansami osobistymi  
-(projekt na obronę pracy licencjackiej)
-
 ### Opis projektu
 
 Aplikacja umożliwia skuteczne zarządzanie finansami osobistymi poprzez:
