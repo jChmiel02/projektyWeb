@@ -1,0 +1,60 @@
+body {
+    background-color: #f1f0f5;
+    color: #333;
+}
+
+.menuBarContainer {
+    background-color: indigo !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar-brand {
+    color: #fff !important;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h2 {
+    color: indigo;
+    font-size: 28px;
+    text-align: center;
+}
+
+label {
+    color: indigo;
+}
+
+.form-control {
+    border-color: indigo;
+}
+
+button[type="submit"] {
+    background-color: indigo;
+    border-color: indigo;
+    color: #fff;
+    font-weight: bold;
+}
+
+button[type="submit"]:hover {
+    background-color: #3a3a7d;
+    border-color: #3a3a7d;
+}
+
+.text-danger {
+    color: #dc3545 !important;
+}
+
+.register-link {
+    color: indigo;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.register-link:hover {
+    color: #3a3a7d;
+}

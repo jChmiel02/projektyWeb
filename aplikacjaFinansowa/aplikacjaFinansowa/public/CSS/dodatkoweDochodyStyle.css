@@ -1,0 +1,88 @@
+body {
+    background-color: #f1f0f5;
+    color: #333;
+}
+
+.menuBarContainer {
+    background-color: indigo !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar-brand {
+    color: #fff !important;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+.navbar-nav .dropdown-menu .dropdown-item {
+    color: #000 !important;
+}
+
+.navbar-nav .dropdown-menu .dropdown-item.active,
+.navbar-nav .nav-link.active {
+    background-color: indigo !important;
+    color: white !important;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+h2 {
+    color: indigo;
+    font-size: 28px;
+    text-align: center;
+}
+
+label {
+    color: indigo;
+}
+
+.form-control {
+    border-color: indigo;
+}
+
+button[type="submit"] {
+    background-color: indigo;
+    border-color: indigo;
+    color: #fff;
+    font-weight: bold;
+}
+
+button[type="submit"]:hover {
+    background-color: #3a3a7d;
+    border-color: #3a3a7d;
+}
+.styled-column {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.dochodItem {
+    margin-bottom: 20px;
+}
+
+.dochodItem p {
+    margin-bottom: 5px;
+}
+
+#chartContainer {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+#editFormContainer {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}

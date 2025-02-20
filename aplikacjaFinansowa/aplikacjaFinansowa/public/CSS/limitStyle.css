@@ -1,0 +1,117 @@
+body {
+    background-color: #f1f0f5;
+    color: #333;
+}
+
+.menuBarContainer {
+    background-color: indigo !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar-brand {
+    color: #fff !important;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+.navbar-nav .dropdown-menu .dropdown-item {
+    color: #000 !important;
+}
+
+.navbar-nav .dropdown-menu .dropdown-item.active,
+.navbar-nav .nav-link.active {
+    background-color: indigo !important;
+    color: white !important;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+h1 {
+    color: indigo;
+    font-size: 28px;
+    text-align: center;
+}
+
+.form-label {
+    color: indigo;
+}
+
+.form-control {
+    border-color: indigo;
+}
+
+button[type="submit"] {
+    background-color: indigo;
+    border-color: indigo;
+    color: #fff;
+    font-weight: bold;
+}
+
+button[type="submit"]:hover {
+    background-color: #3a3a7d;
+    border-color: #3a3a7d;
+}
+
+.green {
+    color: green !important;
+}
+
+.orange {
+    color: orange !important;
+}
+
+.red {
+    color: red !important;
+}
+
+#wykres {
+    background-color: #f1f0f5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Dodatkowy styl dla wykresu */
+.styled-chart canvas {
+    max-width: 100%;
+    height: auto;
+}
+.styled-column {
+    background-color: #f1f0f5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(63, 81, 181, 0.2);
+}
+
+
+.styled-content {
+    text-align: center;
+}
+
+.styled-header {
+    color: indigo;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.styled-amount {
+    color: #3f51b5;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.styled-box {
+    background-color: #f1f0f5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,6 @@
+Programy do pobrania: Composer, Node, xampp (najnowsze wersje)
+Projekt należy wypakować w folderze htdocs w folderze xampp
+W phpmyadmin utwrzyć bazę danych "fianse" i wykonać import z pilku sql
+W bazie jest jedno konto:
+Login: Test
+Hasło: P@ssw0rd1
